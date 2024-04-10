@@ -1,2 +1,2 @@
 # Programacion_Aplicada
-Proyectos realizados con raspberry pi 4
+Proyectos realizados con Raspberry PI 4 usando Python
